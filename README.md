@@ -1,1 +1,5 @@
-# tarea_1_procesamiento_de_datos_masivos
+# Tarea 1 Procesamiento de Datos Masivos
+
+Estudiantes:
+Matías Fuentes
+Larry Uribe
