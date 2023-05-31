@@ -8,7 +8,7 @@
 ## Introducción
 Este repositorio documenta el trabajo realizado para la Tarea 1 en el marco del curso Procesamiento de Datos Masivos IIC2440 el primer semestre del 2023. El objetivo es identificar pares usuarios similares a partir de una [muestra de tweets](https://drive.google.com/file/d/1QZKOgZ46A_2RRsKhPNOwCTGEXP91H4Td/view), empleando [locality-sensitive hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing#:~:text=In%20computer%20science%2C%20locality%2Dsensitive,universe%20of%20possible%20input%20items.)para posibilitar la comparación.
 
-Puedes encontrar una [explicación de los supuestos adoptados aquí](https://www.youtube.com/watch?v=videoID).
+Puedes encontrar una [explicación de los supuestos adoptados aquí](https://youtu.be/6UTvZlb94nA).
 
 ## Estructura del repositorio
 
