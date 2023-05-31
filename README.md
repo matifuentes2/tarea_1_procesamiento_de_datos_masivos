@@ -1,4 +1,4 @@
-# Tarea 1 Procesamiento de Datos Masivos
+# Tarea 1: Procesamiento de Datos Masivos (IIC2440)
 
 ## Estudiantes
 
