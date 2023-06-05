@@ -189,5 +189,3 @@ cython_debug/
 tweets_2022_abril_junio.csv
 *.zip
 *.csv
-fhs/*
-processed_tweets/*
