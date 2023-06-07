@@ -70,7 +70,7 @@ def pre_process(chunk, indice, prev_max_index):
     resumen["clean_text"] = np.vectorize(string_clean_pipeline)(resumen["text"])
     
     tweet_len = resumen.clean_text.apply(len)
-    resumen = resumen[tweet_len>40] # Quitar tweets demasiado cortos
+    resumen = resumen[tweet_len>20] # Quitar tweets demasiado cortos
     resumen = resumen.reset_index().iloc[:, 1:]
     resumen.index = resumen.index.map(lambda x: x + prev_max_index)
     max_index = resumen.index.max()
